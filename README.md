@@ -2,9 +2,9 @@
 
 I'm a Junior CS Student at Rutgers New Brunswick.
 
-Currently on two things!
+Currently working on two things!
 - Growing my club here at Rutgers (Creation of Games Society)
-- Developing a new 2D Story Driven, Action Platformer game Whisper End with a team of friends!
+- Developing a new 2D Story Driven, Action Platformer game Whisper End with a team of friends! 
 
 
 If you would like to contact me -
