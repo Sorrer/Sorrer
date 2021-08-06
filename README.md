@@ -1,10 +1,8 @@
-### Ayo! I'm Alexander Xie 😄
+### Hello! I'm Alexander Xie 😄
 
-I'm a Junior CS Student at Rutgers New Brunswick.
+I'm a Senior CS Student at Rutgers New Brunswick.
 
-Currently working on two things!
-- Growing my club here at Rutgers (Creation of Games Society)
-- Developing a new 2D Story Driven, Action Platformer game Whisper End with a team of friends! 
+Currently working on expanding my knowledge on game development, while also running a game dev club at Rutgers!
 
 
 If you would like to contact me -
