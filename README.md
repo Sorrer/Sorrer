@@ -1,6 +1,6 @@
 ### Hello! I'm Alexander Xie 😄
 
-I'm a Senior CS Student at Rutgers New Brunswick.
+I'm an Rutgers Alumni, currently working as an Software Engineer
 
 Currently working on expanding my knowledge on game development, while also running a game dev club at Rutgers!
 
