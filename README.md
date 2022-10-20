@@ -1,6 +1,6 @@
 ### Hello! I'm Alexander Xie 😄
 
-I'm an Rutgers Alumni, currently working as an Software Engineer!
+I'm an Rutgers Alumni, currently working as a Software Engineer!
 
 
 If you would like to contact me -
