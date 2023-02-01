@@ -5,7 +5,7 @@ I'm an Rutgers Alumni, currently working as a Software Engineer!
 
 If you would like to contact me -
 - (Main) Personal Email: sorrer@gmail.com
-- itch.io: [sorrer](https://sorrer.itch.io/)
+- Itch.io: [Sorrer](https://sorrer.itch.io/)
 - Twitter: [@Sorrer_](https://twitter.com/Sorrer_)
 
 <!--
