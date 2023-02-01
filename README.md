@@ -5,8 +5,8 @@ I'm an Rutgers Alumni, currently working as a Software Engineer!
 
 If you would like to contact me -
 - (Main) Personal Email: sorrer@gmail.com
-- Twitter: [@Sorrer_](https://twitter.com/Sorrer_)
 - itch.io: [sorrer](https://sorrer.itch.io/)
+- Twitter: [@Sorrer_](https://twitter.com/Sorrer_)
 
 <!--
 **Sorrer/Sorrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
